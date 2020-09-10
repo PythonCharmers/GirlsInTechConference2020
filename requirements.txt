@@ -1,0 +1,21 @@
+jupyter
+requests
+IPython
+emoji
+keyring
+altair
+pandas
+tables
+numpy
+filetype
+pint
+sympy
+wordcloud
+openpyxl
+tqdm
+wikipedia
+wbdata
+folium
+scikit-image
+# If you want to turn the notebook into live slides, add this too:
+rise
