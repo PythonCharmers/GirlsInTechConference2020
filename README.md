@@ -9,4 +9,6 @@ This repository contains the slides and code examples for Ed Schofield's talk at
 > In this breakout session, Ed will explore what makes a career in technology
 > fun, with 10 live demos of what's possible in a few lines of code.
 
+Here's a PDF export of the slides:
 
+[PDF slides](https://github.com/PythonCharmers/GirlsInTechConference2020/blob/master/Joy%20of%20Tech%20-%20Python%20coding%20slides.pdf)
